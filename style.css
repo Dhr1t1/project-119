@@ -22,11 +22,11 @@ canvas{
     border: 5px solid coral;
     border-radius: 20px;
     margin-top: 80px;
+    
 }
 
 #guessed_sketch, #confidence{
     font-size:20px;
-    position: center;
 }
 
 h1
